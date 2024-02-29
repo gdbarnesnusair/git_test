@@ -1,0 +1,2 @@
+Hello world! 
+We're learning to code through The Odin Project!
